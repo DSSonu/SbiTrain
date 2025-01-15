@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error
+from scikit-learn.linear_model import LinearRegression
+from scikit-learn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 
 # Title of the app
